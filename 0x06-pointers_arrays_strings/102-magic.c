@@ -1,12 +1,6 @@
 #include <stdio.h>
 
 
-/**
- * print_number - print numbers chars
- * description: main is a function
- * Return: 0
- */
-
 int main(void)
 {
 int n;
